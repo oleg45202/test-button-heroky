@@ -3,10 +3,5 @@
   "description": "Show how the redis works with Spring(java).",
   "repository": "https://github.com/",
   "logo": "https://redis.io/images/redis-white.png",
-  "keywords": ["java", "spring", "redis"],
-  "buildpacks": [
-    {
-      "url": "https://github.com/oleg45202/test-button-heroky/tree/master/server"
-    }
-  ]
+  "keywords": ["java", "spring", "redis"]
 }

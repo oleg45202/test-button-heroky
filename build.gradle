@@ -1,0 +1,4 @@
+task stage(dependsOn: ['server:build'])
+
+task build {}
+build.dependsOn('server:build')
